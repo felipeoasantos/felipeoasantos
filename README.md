@@ -35,6 +35,7 @@ Gosto de aprender através da prática, desenvolver projetos e buscar constantem
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img width="12" />
 
 <!-- Desenvolvimento Web -->
 
@@ -45,12 +46,14 @@ Gosto de aprender através da prática, desenvolver projetos e buscar constantem
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img width="12" />
 
 <!-- Bancos de Dados -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+<img width="12" />
 
 <!-- Sistemas, DevOps e Ferramentas -->
 
@@ -59,6 +62,7 @@ Gosto de aprender através da prática, desenvolver projetos e buscar constantem
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+<img width="12" />
 
 </div>
 
