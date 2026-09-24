@@ -36,8 +36,6 @@ Gosto de aprender através da prática, desenvolver projetos e buscar constantem
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 
-<br><br>
-
 <!-- Desenvolvimento Web -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -48,15 +46,11 @@ Gosto de aprender através da prática, desenvolver projetos e buscar constantem
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 
-<br><br>
-
 <!-- Bancos de Dados -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
-
-<br><br>
 
 <!-- Sistemas, DevOps e Ferramentas -->
 
@@ -113,18 +107,6 @@ Aqui estão alguns dos projetos que estou desenvolvendo ou que fazem parte da mi
 * ⚙️ Aprender mais sobre engenharia de software
 * 🤝 Contribuir em projetos colaborativos
 * 🚀 Buscar minha primeira oportunidade profissional na área de TI
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeoasantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoasantos&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 ---
 
